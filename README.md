@@ -1,1 +1,1 @@
-# -Al-
+# Plane Wave Pseudopotential Method
